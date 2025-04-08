@@ -1,6 +1,3 @@
-//Dimitrios Makris, 3212019119
-//Leonidas Kominos, 3212015092
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
