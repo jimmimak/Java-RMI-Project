@@ -1,6 +1,3 @@
-//Dimitrios Makris, 3212019119
-//Leonidas Kominos, 3212015092
-
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
 import java.util.ArrayList;
