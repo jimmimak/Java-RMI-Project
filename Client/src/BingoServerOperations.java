@@ -1,6 +1,3 @@
-//Dimitrios Makris, 3212019119
-//Leonidas Kominos, 3212015092
-
 //H RMI diepafh pou ulopoiei o BingoServer
 import java.io.IOException;
 import java.rmi.Remote;
