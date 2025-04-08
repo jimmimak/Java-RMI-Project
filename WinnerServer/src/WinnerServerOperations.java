@@ -1,6 +1,3 @@
-//Dimitrios Makris, 3212019119
-//Leonidas Kominos, 3212015092
-
 //H RMI diepafh pou ulopoiei o WinnerServer
 import java.io.FileNotFoundException;
 import java.io.IOException;
