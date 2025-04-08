@@ -1,6 +1,3 @@
-//Dimitrios Makris, 3212019119
-//Leonidas Kominos, 3212015092
-
 import java.rmi.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
