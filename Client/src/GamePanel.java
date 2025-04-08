@@ -1,6 +1,3 @@
-//Dimitrios Makris, 3212019119
-//Leonidas Kominos, 3212015092
-
 import java.awt.Color;
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
